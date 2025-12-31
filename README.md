@@ -1,8 +1,3 @@
-<!-- 🌟 PROFILE HEADER -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&lines=Hi+👋,+I'm, Anh+Hao!;💼+Role;💻;🎯+Turning+Ideas+Into+Impact" alt="Typing SVG" />
-</p>
 
 ---
 
